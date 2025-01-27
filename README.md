@@ -99,21 +99,6 @@ http://<ec2-instance-ip>
 
 ---
 
-## **Project Structure**
-
-.
-├── dist/                 # Production build output
-├── src/                  # Source code
-│   ├── components/       # React components
-│   ├── main.jsx          # Entry point
-│   └── App.jsx           # Main App component
-├── public/               # Public assets
-├── package.json          # npm dependencies and scripts
-├── vite.config.js        # Vite configuration
-└── README.md             # Project documentation
-
----
-
 ## **Future Enhancements**
 
 1. Add HTTPS support using a TLS/SSL certificate.
